@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Fireball",
+    "effect_type": "attack",
+    "power": 4,
+    "description": "Deals 4 fire damage."
+  },
+
+  {
+    "name": "Healing herb",
+    "effect_type": "heal",
+    "power": 3,
+    "description": "Gains user health"
+  },
+
+  {
+    "name": "Shadow theater",
+    "effect_type": "steal",
+    "power": 0,
+    "description": "Illusion magic distracts the opponent and steals his card"
+  },
+
+  {
+    "name": "Blessing of Kynareth",
+    "effect_type": "heal",
+    "power": 8,
+    "description": "Kynareth blesses you and heals your wounds"
+  },
+
+  {
+    "name": "Time loop",
+    "effect_type": "double_turn",
+    "power": 0,
+    "description": "Bends time to allow an additional action."
+  },
+  {
+    "name": "Great frost",
+    "effect_type": "attack",
+    "power": 6,
+    "description": "A treacherous cold that pierces the opponent to the bone"
+  },
+  {
+    "name": "Stunning Blow",
+    "effect_type": "skip",
+    "power": 0,
+    "description": "A powerful hit that interrupts the enemy."
+  },
+  {
+    "name": "Smoke Bomb",
+    "effect_type": "skip",
+    "power": 0,
+    "description": "Blinds the target, forcing them to skip their next turn."
+  },
+  {
+    "name": "Pickpocket",
+    "effect_type": "steal",
+    "power": 0,
+    "description": "Steal a random card from the enemy's hand."
+  },
+  {
+    "name": "Haste",
+    "effect_type": "double_turn",
+    "power": 0,
+    "description": "Grants the caster an extra turn."
+  }
+]
